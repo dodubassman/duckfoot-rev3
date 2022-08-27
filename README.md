@@ -3,7 +3,7 @@
 ![](pictures/right_hand.jpg)
 ![](pictures/both_boards.jpg)
 
-Duckfoot is a low profile Corne-inspired split keyboard, powered with Nice!Nano. With a pair of EVQWGD001 roller encoders.
+Duckfoot is a low profile Corne-inspired split keyboard, powered by Nice!Nano. With a pair of EVQWGD001 roller encoders.
 
 ## PCB
 
