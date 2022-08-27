@@ -9,7 +9,19 @@ Duckfoot is a low profile Corne-inspired split keyboard, powered with Nice!Nano.
 
 Kicab files made with ergogen.
 
+Switches footprint is Kailh Choc V1, supporting [hotswap socket](https://splitkb.com/collections/keyboard-parts/products/kailh-hotswap-sockets?variant=39472161456205) or direct soldering (I wouldnt do that if I were you).
+
+You'll also need:
+- MSK12C02 on/off switch
+- [Reset micro tactil switch](https://www.aliexpress.com/item/32873382894.html)
+- a bunch off smd diodes
+- 2 90mAh batteries. You can chose bigger capacity, but honestly with no LEDs on the board, you won't need more.
+
 The board is reversible, so one minimal order on PCBWay or JLCPCB gives you 2.5 keyboard and a seconde chance if you suck at soldering.
+
+Reversible means left Nice!Nano has to be soldered upside down. If you're lost, pins are idendified on the printed silk layer of the pcb (at least RAW, GND, RST, VCC).
+
+![](pictures/nice_nanos.jpg)
 
 ## Plate and case
 
