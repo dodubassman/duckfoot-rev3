@@ -15,7 +15,7 @@ You'll also need:
 - MSK12C02 on/off switch
 - [Reset micro tactil switch](https://www.aliexpress.com/item/32873382894.html)
 - a bunch off smd diodes
-- 2 90mAh batteries. You can chose bigger capacity, but honestly with no LEDs on the board, you won't need more.
+- 90mAh batteries. You can chose bigger capacity, but honestly with no LEDs on the board, you won't need more. I chose direct soldering for batteries because JST sockets are to big and a nightmare to wire.
 
 The board is reversible, so one minimal order on PCBWay or JLCPCB gives you 2.5 keyboard and a seconde chance if you suck at soldering.
 
@@ -30,3 +30,7 @@ Soon.
 ## ZMK Config example
 
 ![My personnal keymap](https://github.com/dodubassman/zmk-config-duckfoot-rev3)
+
+## Licence
+
+DWTFYWT Public Licence.
