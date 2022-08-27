@@ -14,3 +14,7 @@ The board is reversible, so one minimal order on PCBWay or JLCPCB gives you 2.5 
 ## Plate and case
 
 Soon.
+
+## ZMK Config example
+
+![My personnal keymap](https://github.com/dodubassman/zmk-config-duckfoot-rev3)
