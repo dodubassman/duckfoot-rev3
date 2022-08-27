@@ -27,7 +27,19 @@ Reversible means left Nice!Nano has to be soldered upside down. If you're lost, 
 
 Soon.
 
-## ZMK Config example
+## Config
+
+### Net matrix
+Querty example
+
+|      | P2 | P3 | P4 | P7 | P8 | P10 |   
+|------|----|----|----|----|----|-----|
+| P1   | tab | Q | W | E | R | T |
+| P20  | Shift | A | S | D | F | G |
+| P19  | Ctrl | Z | X | C | V | B |
+| P9   |     |   |  rollclik  | thumb  | thumb |  thumb  |
+
+### ZMK Config example
 
 ![My personnal keymap](https://github.com/dodubassman/zmk-config-duckfoot-rev3)
 
