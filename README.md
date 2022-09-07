@@ -14,7 +14,7 @@ Switches footprint is Kailh Choc V1, supporting [hotswap socket](https://splitkb
 You'll also need:
 - MSK12C02 on/off switch
 - [Reset micro tactil switch](https://www.aliexpress.com/item/32873382894.html)
-- a bunch off smd diodes
+- a bunch of smd diodes
 - 90mAh batteries. You can chose bigger capacity, but honestly with no LEDs on the board, you won't need more. I chose direct soldering for batteries because JST sockets are to big and a nightmare to wire.
 
 The board is reversible, so one minimal order on PCBWay or JLCPCB gives you 2.5 keyboard and a seconde chance if you suck at soldering.
@@ -30,7 +30,7 @@ Soon.
 ## Config
 
 ### Net matrix
-Querty example
+Querty example (promicro)
 
 |      | P2 | P3 | P4 | P7 | P8 | P10 |   
 |------|----|----|----|----|----|-----|
